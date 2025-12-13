@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>Hi, I'm Ardi 👨‍💻  <br>A junior programmer who enjoys building simple and clean web interfaces.<br><br>- 🌱 Currently learning Laravel & basic backend concepts  <br>- 💻 Focused on Frontend Development  <br>- 🚀 Interested in Web & App Development  <br>- 📚 Always trying to improve my coding skills  <br><br>Let’s build something useful.<br>
+## 👋 About Me<br><br>Hi, I'm Ardi 👨‍💻  <br>A junior programmer who enjoys building simple and clean web interfaces.<br><br>- 🌱 Currently learning Laravel & basic backend concepts  <br>- 💻 Focused on Backend Development  <br>- 🚀 Interested in Web & App Development  <br>- 📚 Always trying to improve my coding skills  <br><br>Let’s build something useful.<br>
 
 
 ## 🌐 Socials:
